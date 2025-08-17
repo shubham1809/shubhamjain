@@ -132,3 +132,5 @@ def solve(problem):
 [![Calendly](https://img.shields.io/badge/Schedule_Call-00A2FF?style=for-the-badge&logo=google-meet)](https://calendly.com/yourlink)  
 
 <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=blueviolet" alt="Profile views counter">  
+
+[![Download as PDF](https://img.shields.io/badge/Download_README_as_PDF-red?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/yourusername/yourrepo/raw/main/README.md?export=pdf)
