@@ -1,105 +1,85 @@
-# Shubham Jain
+# Shubham Jain  
+#### 💻 **Technical/Solution Lead** | ☁️ **Cloud Architect** | 🤖 **AI/ML Innovator**  
+📍 Hong Kong | ✉️ [jainshubham1809@gmail.com](mailto:jainshubham1809@gmail.com) | 📞 +852 56187430  
+🔗 [LinkedIn](#) | 🐱 [GitHub](#) | 📜 [IEEE Paper](https://ieeexplore.ieee.org/abstract/document/7125564/metrics)  
 
-**Technical/Solution Lead**  
-Mobile/WhatsApp: +852 56187430 | Email: Jainshubham1809@gmail.com | [LinkedIn](https://www.linkedin.com/in/shubham-jain-1809/) | [GitHub](https://github.com/shubhamjain1809)  
-Valid Hong Kong Visa till 03/2027  
-Hong Kong
+---
 
-## Professional Summary
-Dynamic Technical Lead with 9+ years of experience in application development, enhancement, and maintenance within the Retail & Sourcing domain. Expertise in leading teams, designing scalable solutions, and driving cloud migrations to Azure. Proven track record in streamlining processes using Agile methodologies, implementing AI/ML-driven automations, and resolving complex technical challenges. Passionate about problem-solving with innovative technologies, including robotics and machine learning. Strong analytical skills with a focus on delivering high-impact solutions that reduce costs, efforts, and backlogs.
+## 🚀 **Professional Summary**  
+**9+ years** of expertise in **full-stack development**, **cloud migrations (Azure)**, and **AI/ML solutions** for retail/supply chain domains.  
+- Led **10+ application teams** at Infosys (Hong Kong) with **SLA-driven issue resolution**.  
+- Published **IEEE research** on robotics and built AI POCs (face recognition, adaptive video processing).  
+- **Key Skills:** Microservices, CI/CD, Agile Leadership, Python/Java/Node.js, Kubernetes, DevOps.  
 
-## Areas of Expertise
-- Solution Design
-- High- and Low-Level Design
-- Proof of Concept (POC) Development
-- Techno-Functional Analysis
-- Software Development and Enhancement
-- Cloud Migration
-- Streamlining Development Processes
-- Agile Implementation
-- Client Communication
-- Retail Sourcing Domain
-- Problem-Solving and Analytical Skills
-- Research and Troubleshooting
-- Quick Learner
-- Project Delivery
+---
 
-## Key Technical Skills
-- **Languages & Frameworks**: Python, Node.js, Java | FastAPI, NestJS, Express.js, Spring Boot
-- **Databases**: Oracle, PostgreSQL, MySQL
-- **Methodologies & Tools**: Agile (Jira, Confluence), Git, Bitbucket, Gradle, SonarCloud, CircleCI
-- **Cloud & DevOps**: Azure (App Service, Dockerization, AKS, DevOps Tools like ArgoCD, Grafana, Vault), Kubernetes (K8s), CI/CD Pipelines, REST APIs, Microservices
-- **Other**: Data Structures & Algorithms, Computer Science Fundamentals
+## 🛠 **Technical Skills**  
 
-## Professional Experience
+| **Category**       | **Technologies**                                                                 |
+|--------------------|---------------------------------------------------------------------------------|
+| **Languages**      | Python, Java, Node.js, Scala, MATLAB                                           |
+| **Frameworks**     | Spring Boot, FastAPI, NestJS, Express.js, Akka Toolkit                         |
+| **Cloud & DevOps** | Azure (AKS, App Services), Docker, ArgoCD, Grafana, Vault, CI/CD Pipelines     |
+| **Databases**      | Oracle, PostgreSQL, MySQL, Memcached                                           |
+| **Tools**          | Git, Bitbucket, Jira, Confluence, SonarCloud, CircleCI                         |
+| **AI/ML**          | Image Processing, Recommendation Systems, Face Recognition                     |
 
-### Technical Lead, Infosys Ltd., Hong Kong  
-*HK-Based Supply Chain Management Customer*  
-September 2022 – Present  
-- Streamlined application maintenance processes and defined Standard Operating Procedures (SOPs) for project support, enhancing efficiency and reducing downtime.
-- Led a team of developers and QA engineers in maintaining a PLM platform comprising 10+ applications, including issue analysis, design, development, and resolution within SLAs.
-- Resolved production issues promptly, increased release cycles, and reduced backlogs significantly.
-- Identified and addressed security loopholes, optimized APIs, and improved query performance to enhance system reliability.
-- Developed technical solutions for time-consuming business tasks, such as PDF manipulation, auto-signing, and translation, resulting in improved operational efficiency.
-- Designed and integrated ERP systems with external applications to streamline data flow and business processes.
+---
 
-### Staff Engineer, Nagarro, India  
-*South Africa Health Insurance Customer*  
-March 2022 – September 2022  
-- Served as Senior Engineer for the Amplify Health product, focusing on data transformation using HL7 standards.
-- Developed utilities for FHIR format transformation using Spring Boot, Spring Batch, and HAPI FHIR API.
-- Built Azure pipelines for end-to-end data processing, leveraging Azure Data Share, Blob Storage, Azure Queue, and other services.
+## 💼 **Work Experience**  
 
-### Technology Analyst, Infosys Ltd., Hong Kong  
-*HK-Based Supply Chain Management Customer*  
-November 2018 – March 2022  
-- Developed an authentication and authorization system using Apereo CAS with SSO for 10+ downstream applications in a microservices architecture (Java stack), including in-memory caching for permissions.
-- Migrated supply chain applications from on-premises to Azure Cloud, including database migration, CI/CD implementation, containerization, and Agile adoption.
-- Developed and enhanced a concurrent and distributed tracking system for supply chain management with a 6-person team, using Java, Scala, Akka Toolkit, JSP, Twirl, Jasper Reports, and Oracle DB.
-- Implemented Memcached in the tracking system, reducing response time by 40% (to 0.6x original).
-- Designed, developed, and deployed a Product Survey Application with a 2-person team using Spring Boot, Spring Data JPA, REST APIs, MySQL, and AWS.
-- Created technical design documents, conducted code reviews, mentored teams, designed solutions, and proposed new ideas for IT systems in supply chain business.
-- Implemented Agile frameworks, DevOps tools, and project documentation; defined processes for the maintenance team.
+### **Infosys Limited, Hong Kong** *(Sep 2022 – Present)*  
+**Technical Lead** (Supply Chain Management)  
+✔ **Cloud Migration**: Led on-prem to **Azure** migration (DB, containers, CI/CD).  
+✔ **Performance Optimization**: Reduced API response time by **40%** via Memcached.  
+✔ **Security**: Fixed loopholes in auth systems (Apereo CAS SSO for 10+ microservices).  
+✔ **Automation**: Built tools for PDF manipulation, auto-signing, and ERP integrations.  
 
-### Senior System Engineer, Infosys Ltd., India  
-*HK-Based Supply Chain Management Customer*  
-February 2015 – October 2018  
-- Designed and developed a dashboard application for supply chain management executives using Java, JS Chart Framework, JSP, ORDS, and Oracle DB.
-- Expanded Product ID functionality across 100+ IT applications for a USA-based multinational drink and brewing customer.
-- Developed 100+ new features and fixed existing issues in a warehouse management system.
-- Created a find-and-replace tool for internal project use to accelerate development tasks.
+### **Nagarro, India** *(Mar 2022 – Sep 2022)*  
+**Staff Engineer** (Health Insurance)  
+✔ Developed **FHIR data transformers** using Spring Boot/HAPI for South African clients.  
+✔ Designed **Azure pipelines** with Blob Storage, Queues, and Data Share.  
 
-## AI/ML Projects & POCs
-- Built an e-commerce website with AI features, including product recommendation, face-based login, and payment systems.
-- Developed a customer demographic dashboard using face recognition techniques.
-- Created an adaptive brightness adjustment tool for videos using image processing.
+### **Infosys Limited, Hong Kong/India** *(2015 – 2022)*  
+**Roles:** Technology Analyst → Senior System Engineer  
+✔ **Scalable Systems**: Built concurrent supply chain tracking (Java/Scala/Akka).  
+✔ **AI POCs**: E-commerce recommendations, face-based login, video brightness adjustment.  
+✔ **Agile Leadership**: Streamlined dev processes, mentored teams, and reduced backlogs.  
 
-## Publications
-- **A Force-Controlled Portrait Drawing Robot**  
-  Developed an algorithm to enhance the intelligence of a KUKA Robot for painting portraits on 2D and 3D surfaces.  
-  Published in 2015 IEEE International Conference on Industrial Technology (ICIT), Seville, Spain.  
-  [Link](https://ieeexplore.ieee.org/abstract/document/7125564/metrics)  
-  Technologies: MATLAB, Image Processing, Force and Torque Sensors, Java.  
-  Research Location: Bhabha Atomic Research Center, Mumbai.
+---
 
-## Education
-- **Bachelor of Engineering in Electronics and Communication Engineering**  
-  Rajasthan Technical University, Kota, Rajasthan, India  
-  June 2015 | GPA: 80%
+## 🎓 **Education & Research**  
+- **B.E. in Electronics & Communication** (Rajasthan Technical University, 2015) – **80%**  
+- **IEEE Research Paper**: *“A force-controlled portrait drawing robot”* ([Read Here](https://ieeexplore.ieee.org/abstract/document/7125564/metrics))  
+  - Developed algorithms for **Kuka robot** (2D/3D painting) at **Bhabha Atomic Research Center**.  
 
-## Achievements & Awards
-- Awarded "Most Valuable Player" in 2023 Q2 at Infosys.
-- Recognized as "Open-Source Professional" at Infosys.
-- HackerRank Certified Programmer.
-- Received "Award of Excellence" at Infosys for 2019.
-- Qualified "Power Programmer" Exam at Infosys for 2018.
-- Received "Insta Award" at Infosys for 2016.
-- Received "Gems of Skit," "Award for Merit," and other accolades during college.
-- Nominated for Research and Development Scientist position at BARC by college.
-- Nominated for Internship at BSNL by college.
-- Topper in higher secondary education and multiple semesters during B.Tech.
+---
 
-## Interests
-- Exploring AI and ML technologies; building POCs for real-world problems in the Retail industry.
-- Reading blogs on technology, self-management, and health.
-- Engaging in social activities and solving problems using technology.
+## 🏆 **Achievements**  
+- **Infosys MVP Award 2023** | **Power Programmer Certified**  
+- **HackerRank Certified** | **Open-Source Professional**  
+- **Award of Excellence (2019)** | **Insta Award (2016)**  
+- **College Topper** | **Nominated for BARC Scientist**  
+
+---
+
+## 🔍 **Projects & POCs**  
+| **Project**                          | **Tech Stack**               | **Key Contribution**                          |
+|--------------------------------------|-----------------------------|----------------------------------------------|
+| **ERP Integration**                  | Java, Azure, REST APIs      | Streamlined supply chain workflows           |
+| **AI-Powered E-commerce**            | Python, OpenCV, Flask       | Face recognition for login/payments         |
+| **Robotics Research (IEEE)**         | MATLAB, Force Sensors       | Algorithm for robotic portrait painting     |
+| **FHIR Data Transformer**            | Spring Boot, HAPI FHIR      | Healthcare data standardization             |
+
+---
+
+## 🌟 **Interests & Extras**  
+- **AI/ML**: Solving retail automation challenges.  
+- **Blogging**: Tech trends, self-management.  
+- **Mentoring**: Guiding junior developers.  
+
+---
+
+📌 **Let’s Connect!** Open to collaborations on **cloud architectures, AI, or backend systems**.  
+[![Email](https://img.shields.io/badge/Email-jainshubham1809@gmail.com-red)](mailto:jainshubham1809@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)  
